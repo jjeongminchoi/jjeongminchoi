@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjeongminchoi&theme=dracula)
 
 My first project 👉 [click!!](https://github.com/nashs789/PopJourney.git) <br/>
-<!-- My first project portfolio 👉 [click!!](https://shadow-lodge-ea6.notion.site/POPJOURNEY-b439901872c94efba830eecc649a12bb) -->
+My first project portfolio 👉 [click!!](https://shadow-lodge-ea6.notion.site/POPJOURNEY-b439901872c94efba830eecc649a12bb)
